@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://support.techterminologies.com/sitemap.xml
